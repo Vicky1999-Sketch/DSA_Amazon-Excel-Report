@@ -70,8 +70,6 @@ Home Improvement products enjoy the highest average discount. In contrast, Toys 
 
 ### 2. Number of Products per Category
 
-![NR per C](https://github.com/user-attachments/assets/5d96ec21-5d58-4b36-99fb-32abdc879335)
-
 **Findings:**
 * Electronics – 511
 * Home & Kitchen – 448
@@ -83,6 +81,8 @@ Home Improvement products enjoy the highest average discount. In contrast, Toys 
 The Electronics category has the largest product count.
 
 ### 3. Total Number of Reviews by Category
+
+![NR per C](https://github.com/user-attachments/assets/5d96ec21-5d58-4b36-99fb-32abdc879335)
 
 **Findings:**
 * Electronics – 3,975
@@ -166,6 +166,9 @@ Electronics have both high volume and revenue potential.
 Most products fall into the premium price segment.
 
 ### 11. Rating vs. Discount Relationship
+
+![RRDL](https://github.com/user-attachments/assets/d233a698-fae6-466c-a785-17366b66d62c)
+
 
 **Findings:**
 Products rated 4.0–4.9 also tend to have higher discount rates.
