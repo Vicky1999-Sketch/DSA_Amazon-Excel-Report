@@ -74,10 +74,12 @@ Data cleaning steps performed in Excel:
 * Office Products – 12%
 * Toys & Games – 0%
 
-**Insight:**
+**Finding/Insight:**
 Home Improvement products enjoy the highest average discount. In contrast, Toys & Games receive no discounts.
 
 ### 2. Number of Products per Category
+
+![NP under C](https://github.com/user-attachments/assets/92e840c6-14f4-4972-9bd4-0436261c8370)
 
 **Findings:**
 * Electronics – 511
@@ -101,7 +103,9 @@ The Electronics category has the largest product count.
 **Insight:**
 These three categories dominate in customer engagement.
 
-### 4. Highest Average Ratings
+## 4. Highest Average Ratings
+
+#![P with HAR](https://github.com/user-attachments/assets/4acb80c6-3406-46e5-be5b-192ac76a46a2)
 
 **Finding:**
 Tablet products have the highest average rating of **4.6**.
@@ -165,6 +169,9 @@ Electronics have both high volume and revenue potential.
 
 ### 10. Unique Products per Price Range
 
+![N of UP per PR](https://github.com/user-attachments/assets/698ac8af-176d-4357-a34b-2d77af858527)
+
+
 **Findings:**
 
 * ₹500 – 1,199 products
@@ -201,6 +208,7 @@ Based on average discount percentage score, categories that have products with t
 
 ### 14. Top 5 Products by Rating × Review Count
 
+![Top 5 P  RNR](https://github.com/user-attachments/assets/f7fe9874-8789-40ec-a718-40ce4f3cf3f2)
 **Findings (Combined Score):**
 
 1. USB Cables (B08Y1TFSP6): 93.6
