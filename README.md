@@ -79,30 +79,12 @@ Data cleaning steps performed in Excel:
 
 ![ADC by P](https://github.com/user-attachments/assets/0e5ba900-3053-4aac-b0ba-9133985f1d25)
 
-**Findings:**
-* Home Improvement – 58%
-* Computer & Accessory – 54%
-* Health & Personal Care – 53%
-* Electronics – 50%
-* Musical Instruments – 46%
-* Car & Motorbike – 42%
-* Home & Kitchen – 40%
-* Office Products – 12%
-* Toys & Games – 0%
-
 **Finding/Insight:**
 Home Improvement products enjoy the highest average discount. In contrast, Toys & Games receive no discounts.
 
 ### 2. Number of Products per Category
 
 ![NP under C](https://github.com/user-attachments/assets/92e840c6-14f4-4972-9bd4-0436261c8370)
-
-**Findings:**
-* Electronics – 511
-* Home & Kitchen – 448
-* Computer & Accessory – 392
-* Office Products – 31
-* Others – Very few (1–2 items each)
 
 **Insight:**
 The Electronics category has the largest product count.
@@ -123,8 +105,8 @@ These three categories dominate in customer engagement.
 
 #![P with HAR](https://github.com/user-attachments/assets/4acb80c6-3406-46e5-be5b-192ac76a46a2)
 
-**Finding:**
-Tablet products have the highest average rating of **4.6**.
+**Finding/ Insight:**
+Tablet products have the highest average rating of 4.6.
 
 ### 5. Average Actual vs. Discounted Price by Category
 
