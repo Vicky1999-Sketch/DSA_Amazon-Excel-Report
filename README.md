@@ -112,10 +112,8 @@ Tablet products have the highest average rating of 4.6.
 
 ![AAP vs DP](https://github.com/user-attachments/assets/ea011963-8547-43c3-8b08-ea64bce59580)
 
-**Visualization:** Scatter Plot
-(*Insert visual*)
 **Insight:**
-Varies widely by category, but steep discounts are often seen on higher-priced products.
+The discounts varies across category, but steep discounts are often seen on higher-priced products.
 
 ### 6. Products with the Highest Number of Reviews
 
@@ -132,11 +130,9 @@ USB Cables: 1,407 reviews (highest)
 
 **Finding:**
 695 out of 1,389 products
+
 **Insight:**
 About 50% of products are heavily discounted.
-
-*Insight:**
-Most products have favorable ratings (4.0–4.9), indicating customer satisfaction.
 
 ### 8. Distribution of Product Ratings
 
