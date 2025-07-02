@@ -112,13 +112,6 @@ USB Cables: 1,407 reviews (highest)
 **Insight:**
 About 50% of products are heavily discounted.
 
-### 7. Products with Discounts ≥ 50%
-
-**Finding:**
-695 out of 1,389 products
-**Insight:**
-About 50% of products are heavily discounted.
-
 *Insight:**
 Most products have favorable ratings (4.0–4.9), indicating customer satisfaction.
 
@@ -151,9 +144,9 @@ Electronics have both high volume and revenue potential.
 
 **Findings:**
 
-* > ₹500 – 1,199 products
+* ₹500 – 1,199 products
 * ₹200–₹500 – 155 products
-* <₹200 – 35 products
+* ₹200 – 35 products
 
 **Insight:**
 Most products fall into the premium price segment.
@@ -193,6 +186,17 @@ The top performers are mainly from the Computer & Accessory and Electronics cate
 2. Re-evaluate discounts in low-performing categories (e.g., Office Products, Toys) — the return on discount may not justify the cost.
 3. Increase promotion of high-rated products with fewer reviews to boost engagement.
 5. Monitor margins for heavily discounted products to avoid losses, even with high sales.
+
+## X. Conclusion
+
+The analysis highlights the impact of product category, discounting, and customer feedback on potential revenue and customer engagement. Strategic discounting is effective when paired with high-performing categories, but may not yield results across all product types.
+
+## Dashboard
+
+(*Insert Excel dashboard or charts*)
+
+
+
 
 
 
