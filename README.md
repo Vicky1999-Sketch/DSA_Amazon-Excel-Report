@@ -121,3 +121,78 @@ About 50% of products are heavily discounted.
 
 *Insight:**
 Most products have favorable ratings (4.0–4.9), indicating customer satisfaction.
+
+### 8. Distribution of Product Ratings
+
+**Findings:**
+
+* 4.0–4.9 stars: 1,039 products
+* 3.0–3.9 stars: 340 products
+* 2.0–2.9 stars: 6 products
+* <2.0 stars: 1 product
+* 5.0 stars: 3 products
+
+**Insight:**
+Most products have favorable ratings (4.0–4.9), indicating customer satisfaction.
+
+### 9. Total Potential Revenue by Category
+
+**Findings (in millions):**
+
+* Electronics – ₹96,937M
+* Computer & Accessory – ₹12,015M
+* Home & Kitchen – ₹10,460M
+  (Others < ₹200M each)
+
+**Insight:**
+Electronics have both high volume and revenue potential.
+
+### 10. Unique Products per Price Range
+
+**Findings:**
+
+* > ₹500 – 1,199 products
+* ₹200–₹500 – 155 products
+* <₹200 – 35 products
+
+**Insight:**
+Most products fall into the premium price segment.
+
+### 11. Rating vs. Discount Relationship
+
+**Findings:**
+Products rated 4.0–4.9 also tend to have higher discount rates.
+
+**Insight:**
+Well-rated products may be discounted to drive volume further.
+
+### 12. Products with Fewer than 1,000 Reviews
+
+**Finding:**
+194 of 195 product types have <1,000 reviews. Only USB cables exceed this.
+
+### 13. Categories with the Highest Discounts
+
+**Repeat of Question 1 — Consider merging or referencing earlier result.**
+
+### 14. Top 5 Products by Rating × Review Count
+
+**Findings (Combined Score):**
+
+1. USB Cables (B08Y1TFSP6): 93.6
+2. USB Cables (B00NH11KIK): 72
+3. Micro SD (B0BDRVFDKP): 70.4
+4. HDMI Cables (B07KSMBL2H): 70.4
+5. USB Cables (B01GGKYKQM): 68.8
+
+**Insight:**
+The top performers are mainly from the Computer & Accessory and Electronics categories.
+
+## IX. Recommendations
+1. Discounting works as a strategy but selectively. The data shows that categories with high discounts (e.g., Computer & Accessory, Electronics) are also leaders in review volume and revenue. However, categories like Home & Kitchen perform well despite lower discounts, suggesting strong product utility or brand value. One key recommendation would be to maintain strategic discounts on Electronics and Computer & Accessory items to sustain volume and visibility while providing bundle offerings in Home & Kitchen products to increase sales without relying solely on discounting.
+2. Re-evaluate discounts in low-performing categories (e.g., Office Products, Toys) — the return on discount may not justify the cost.
+3. Increase promotion of high-rated products with fewer reviews to boost engagement.
+5. Monitor margins for heavily discounted products to avoid losses, even with high sales.
+
+
+
