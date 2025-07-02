@@ -1,6 +1,8 @@
 # Amazon Product Review Analysis Report
 *Disclaimer: The dataset used in this analysis is for educational and analytical purposes only.*
 
+![Amazon Dashboard](https://github.com/user-attachments/assets/bdd418c5-c778-46b7-85fc-7d01e3bc843c)
+
 ## I. Introduction
 This report provides an analysis of product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
@@ -127,8 +129,6 @@ Most products have favorable ratings (4.0–4.9), indicating customer satisfacti
 
 ![DPR](https://github.com/user-attachments/assets/3e1bd3fa-eecf-4747-b4c9-6d14d6aed564)
 
-![DPR](https://github.com/user-attachments/assets/8cb5d7c1-3be3-4299-9938-7723976801b1)
-
 **Findings:**
 
 * 4.0–4.9 stars: 1,039 products
@@ -210,7 +210,7 @@ The analysis highlights the impact of product category, discounting, and custome
 
 ## Dashboard
 
-![Amazon Dashboard](https://github.com/user-attachments/assets/bdd418c5-c778-46b7-85fc-7d01e3bc843c)
+
 
 
 
