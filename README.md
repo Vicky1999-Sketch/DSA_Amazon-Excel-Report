@@ -113,7 +113,7 @@ Tablet products have the highest average rating of 4.6.
 ![AAP vs DP](https://github.com/user-attachments/assets/ea011963-8547-43c3-8b08-ea64bce59580)
 
 **Insight:**
-The discounts varies across category, but steep discounts are often seen on higher-priced products.
+The discounts varies across category, ranging from really high discount to moderate discount
 
 ### 6. Products with the Highest Number of Reviews
 
