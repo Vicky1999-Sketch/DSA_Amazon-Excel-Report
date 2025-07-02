@@ -48,14 +48,30 @@ Data cleaning steps performed in Excel:
 
 ## VII. Calculations and Formulas Used
 
-   * Product Type: =IF(H323=0,C323,H323)
-   * Review Count: =COUNTA(O323:V323)
-   * Potential Revenue (Actual Price × Rating Count): =[@[actual_price]]*[@[rating_count]]
-   * Price Range Buckets: =IF([@[actual_price]]<200, "<200", IF([@[actual_price]]<=500, "200-500",IF([@[actual_price]]>500,">500","Nil")))
-   * Combined Score (Rating × Review Count): =[@rating]*[@[Review count]]
-   * Rating Distribution Groupings: =IF([@rating]<2,"0-1.9",IF([@rating]<3,"2.0-2.9",IF([@rating]<4,"3.0-3.9",IF([@rating]<5,"4.0-4.9",IF([@rating]>=5,"5.0 and above","None")))))
-
-(*Section reserved for formulas such as `=AVERAGEIF()`, `=COUNTIF()`, `=IF()`, etc.*)
+   * Product Type:
+     ```excel
+     =IF(H323=0,C323,H323)
+     ```
+   * Review Count:
+     ```excel
+     =COUNTA(O323:V323)
+     ```
+   * Potential Revenue (Actual Price × Rating Count):
+     ```excel
+     =[@[actual_price]]*[@[rating_count]]
+     ```
+   * Price Range Buckets:
+     ```excel
+     =IF([@[actual_price]]<200, "<200", IF([@[actual_price]]<=500, "200-500",IF([@[actual_price]]>500,">500","Nil")))
+     ```
+   * Combined Score (Rating × Review Count):
+     ```excel
+     =[@rating]*[@[Review count]]
+     ```
+   * Rating Distribution Groupings:
+     ```excel
+     =IF([@rating]<2,"0-1.9",IF([@rating]<3,"2.0-2.9",IF([@rating]<4,"3.0-3.9",IF([@rating]<5,"4.0-4.9",IF([@rating]>=5,"5.0 and above","None")))))
+     ```
 
 ## VIII. Findings & Insights
 
@@ -128,7 +144,9 @@ USB Cables: 1,407 reviews (highest)
 
 ### 7. Products with Discounts ≥ 50%
 
+```excel
 =COUNTIF(Amazon_table[discount_percentage],">=50%")
+```
 
 **Finding:**
 695 out of 1,389 products
@@ -194,10 +212,10 @@ Well-rated products may be discounted to drive volume further.
 
 ### 12. Products with Fewer than 1,000 Reviews
 
+```excel
 =SUMIF(Amazon_table[Product type],A3,Amazon_table[Review count])
-
 =COUNTIF(B:B,"<1000")
-
+```
 **Finding:**
 194 of 195 product types have <1,000 reviews. Only USB cables exceed this.
 
