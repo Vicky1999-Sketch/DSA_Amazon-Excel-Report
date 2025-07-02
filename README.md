@@ -52,6 +52,8 @@ Data cleaning steps performed in Excel:
 
 ### 1. Average Discount Percentage by Product Category
 
+![ADC by P](https://github.com/user-attachments/assets/0e5ba900-3053-4aac-b0ba-9133985f1d25)
+
 **Findings:**
 * Home Improvement – 58%
 * Computer & Accessory – 54%
@@ -67,6 +69,8 @@ Data cleaning steps performed in Excel:
 Home Improvement products enjoy the highest average discount. In contrast, Toys & Games receive no discounts.
 
 ### 2. Number of Products per Category
+
+![NR per C](https://github.com/user-attachments/assets/5d96ec21-5d58-4b36-99fb-32abdc879335)
 
 **Findings:**
 * Electronics – 511
@@ -95,12 +99,16 @@ Tablet products have the highest average rating of **4.6**.
 
 ### 5. Average Actual vs. Discounted Price by Category
 
+![AAP vs DP](https://github.com/user-attachments/assets/ea011963-8547-43c3-8b08-ea64bce59580)
+
 **Visualization:** Scatter Plot
 (*Insert visual*)
 **Insight:**
 Varies widely by category, but steep discounts are often seen on higher-priced products.
 
 ### 6. Products with the Highest Number of Reviews
+
+![PHN of R](https://github.com/user-attachments/assets/7dd00bff-df59-4882-a0a9-d166248289b3)
 
 **Finding:**
 USB Cables: 1,407 reviews (highest)
@@ -117,6 +125,10 @@ Most products have favorable ratings (4.0–4.9), indicating customer satisfacti
 
 ### 8. Distribution of Product Ratings
 
+![DPR](https://github.com/user-attachments/assets/3e1bd3fa-eecf-4747-b4c9-6d14d6aed564)
+
+![DPR](https://github.com/user-attachments/assets/8cb5d7c1-3be3-4299-9938-7723976801b1)
+
 **Findings:**
 
 * 4.0–4.9 stars: 1,039 products
@@ -129,6 +141,8 @@ Most products have favorable ratings (4.0–4.9), indicating customer satisfacti
 Most products have favorable ratings (4.0–4.9), indicating customer satisfaction.
 
 ### 9. Total Potential Revenue by Category
+
+![TPR by C](https://github.com/user-attachments/assets/74fb9e36-c795-42de-a398-caebb206a5c1)
 
 **Findings (in millions):**
 
@@ -193,7 +207,8 @@ The analysis highlights the impact of product category, discounting, and custome
 
 ## Dashboard
 
-(*Insert Excel dashboard or charts*)
+![Amazon Dashboard](https://github.com/user-attachments/assets/bdd418c5-c778-46b7-85fc-7d01e3bc843c)
+
 
 
 
