@@ -210,6 +210,8 @@ The analysis highlights the impact of product category, discounting, and custome
 
 ## Dashboard
 
+![Amazon Dashboard](https://github.com/user-attachments/assets/bdd418c5-c778-46b7-85fc-7d01e3bc843c)
+
 
 
 
