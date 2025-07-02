@@ -199,12 +199,15 @@ Well-rated products may be discounted to drive volume further.
 
 ### 13. Categories with the Highest Discounts
 
+![C with PHD](https://github.com/user-attachments/assets/fe320161-6f50-42c0-8e9b-8cfcb1450306)
+
 **Finding:**
 Based on average discount percentage score, categories that have products with the highest discounts are Home Improvevement by 58%, followed by Home and Accessories and Home and Personal Care by 54% and 53% respectively
 
 ### 14. Top 5 Products by Rating × Review Count
 
 ![Top 5 P  RNR](https://github.com/user-attachments/assets/f7fe9874-8789-40ec-a718-40ce4f3cf3f2)
+
 **Findings (Combined Score):**
 
 1. USB Cables (B08Y1TFSP6): 93.6
